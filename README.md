@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there:) Welcome 👋🙂 
 
-<!--
-**Thatgirl9/Thatgirl9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a FrontEnd Web Developer
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
